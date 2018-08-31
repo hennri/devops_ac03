@@ -19,5 +19,4 @@ abaixo do peso = alcatra, frango, amendoim, açucares, banana, abacate, arroz, f
 peso normal = evitar frituras, não comer tarde da noite, manter rotina de exercicios, arooz, feijão, frango, verduras e frutas
 
 
-obesidade e sobrepeso = sem fritura, sdoces e salgados, 5 a 6 refeições (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, líquido, alimentos integrais
-
+obesidade e sobrepeso = sem fritura, sdoces e salgados, 5 a 6 refeições (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, líquido, alimentos integras.
