@@ -5,4 +5,8 @@ peso normal = evitar frituras, não comer tarde da noite, manter rotina de exerc
 
 obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeições (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, líquido, alimentos integrais
 
-Links: oK Usuário insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme parâmetros (2); a função retorna os resusltados conforme cada recomendação (4).
+
+
+
+Links: oK Usuário insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme parâmetros (2); a função retorna os resusltados conforme cada recomendação (4)
+
